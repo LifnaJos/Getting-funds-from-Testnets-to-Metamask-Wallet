@@ -1,6 +1,6 @@
 ## Steps to get funds from Sepolia Testnet
  
-1. Select Sepolia Testnet in Metamask @ chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#
+1. Select Sepolia Testnet in Metamask @ https://chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#
    
 ![Sepolia](https://github.com/LifnaJos/Getting-funds-from-Testnets-to-Metamask-Wallet/blob/main/Sepolia_0.jpg)
 
